@@ -1,5 +1,8 @@
 # book【從 Hooks 開始，讓網頁 React 起來】台灣好天氣 - 臺灣即時天氣 App 🇹🇼實作
 
+![image](https://github.com/funpi89/react_realtime_weather_app/blob/master/src/images/info.PNG)
+##
+![image](https://github.com/funpi89/react_realtime_weather_app/blob/master/src/images/setting.PNG)
 
 ## 版權宣告
 - 資料來自氣象資料開放平台提供之API (https://opendata.cwb.gov.tw)
